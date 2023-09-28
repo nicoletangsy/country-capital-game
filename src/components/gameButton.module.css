@@ -1,0 +1,13 @@
+.gameButton {
+    margin: 4px 2px;
+}
+
+.selected:disabled {
+    background-color: #0000ff;
+    color: #ffffff
+}
+
+.wrong:disabled {
+    background-color: #ff0000;
+    color: #ffffff
+}
